@@ -12,10 +12,10 @@ Easy way for install Mikrotik’s Cloud Hosted Router on any Cloud VM
   IP Address - Net Mask - IP Gateway
   3:
   In some cases you need to disable the Virtio driver!
-  4: 
-  Ensure `gunzip` is installed. 
-  Install it using: sudo apt-get install gzip
 ```
+
+# Ensure `gunzip` is installed. 
+  Install it using: ``sudo apt-get install gzip``
 
 ## Find information manually
 Find storage name
